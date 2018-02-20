@@ -1,0 +1,31 @@
+{
+  "name": "deep-setter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costmkv/deep-setter.git"
+  },
+  "keywords": [],
+  "author": "Constantin Makeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costmkv/deep-setter/issues"
+  },
+  "homepage": "https://github.com/costmkv/deep-setter#readme",
+  "dependencies": {
+    "clone": "2.1.1",
+    "eslint-config-airbnb": "16.1.0",
+    "expect.js": "0.3.1",
+    "mocha": "5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "4.18.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-plugin-import": "2.8.0"
+  }
+}
