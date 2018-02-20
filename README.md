@@ -1,5 +1,7 @@
 # Deep setter
 
+[![Build Status](https://travis-ci.org/costmkv/deep-setter.svg?branch=master)](https://travis-ci.org/costmkv/deep-setter)
+
 ## Example
 
 ```javascript
